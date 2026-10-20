@@ -1,4 +1,4 @@
-# CMOS-Schmitt-Trigger-Cadence
+
 # CMOS Schmitt Trigger Design and Simulation
 
 ## Overview
